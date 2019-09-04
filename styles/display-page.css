@@ -2,14 +2,14 @@ main {
   width: 800px;
   height: 500px;
   border: 1px black;
-  background-color: pink;
+  padding-top: 50px;
   margin-left: auto;
   margin-right: auto;
   font-size: 0;
 }
 
 .top {
-  display: flex;
+  display: inline-block;
   width: 50%;
   height: 200px;
   border: 1px black;
