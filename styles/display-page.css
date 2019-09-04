@@ -1,0 +1,44 @@
+main {
+  width: 800px;
+  height: 500px;
+  border: 1px black;
+  background-color: pink;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0;
+}
+
+.top {
+  display: flex;
+  width: 50%;
+  height: 200px;
+  border: 1px black;
+  border: 1px solid black;
+}
+
+.inner-top-one {
+  background-color: green;
+}
+
+.inner-top-two {
+  background-color: blue;
+}
+
+.bottom {
+  width: 33.33%;
+  height: 300px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.bottom-one {
+  background-color: grey;
+}
+
+.bottom-two {
+  background-color: black;
+}
+
+.bottom-three {
+  background-color: yellow;
+}
