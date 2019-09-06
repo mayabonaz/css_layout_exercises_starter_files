@@ -1,3 +1,4 @@
+
 body {
   box-sizing: border-box;
   margin: 0px;
@@ -73,4 +74,15 @@ input[type=text] {
   border:none;
   width:30px;
   height:30px;
+}
+
+.pages {
+  margin-left: 80px;
+}
+.pages-button {
+  margin-top: 300px;
+  /* padding-left: 60px; */
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
 }
